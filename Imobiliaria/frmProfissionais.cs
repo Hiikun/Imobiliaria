@@ -14,7 +14,7 @@ namespace Imobiliaria
 {
     public partial class frmProfissionais : Form
     {
-        ModeloProfissional profissional = new ModeloProfissional();
+        ProfissionalModelo profissional = new ProfissionalModelo();
         ProfissionaisBll objProfissionaisBll = new ProfissionaisBll();
 
         public frmProfissionais()

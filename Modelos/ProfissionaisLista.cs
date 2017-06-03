@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Imobiliaria.Modelos
 {
-    public class ListaProfissionais : List<ModeloProfissional>
+    public class ProfissionaisLista : List<ProfissionalModelo>
     {
 
     }

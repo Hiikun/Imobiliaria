@@ -44,7 +44,7 @@ namespace Imobiliaria.BLL
 
         ProfissionaisDal objProfissionaisDal = new ProfissionaisDal();
 
-        private bool validaProfissional(ModeloProfissional profissional)
+        private bool validaProfissional(ProfissionalModelo profissional)
         {
             bool valida = false;
             if (profissional.ProfNome.Length == 0)
@@ -70,7 +70,7 @@ namespace Imobiliaria.BLL
             return valida;
         }
 
-        public string Inserir(ModeloProfissional profissional)
+        public string Inserir(ProfissionalModelo profissional)
         {
             try
             {
@@ -92,7 +92,7 @@ namespace Imobiliaria.BLL
             }
         }
 
-        public string Alterar(ModeloProfissional profissional)
+        public string Alterar(ProfissionalModelo profissional)
         {
             try
             {
@@ -115,7 +115,7 @@ namespace Imobiliaria.BLL
             }
         }
 
-        public bool Excluir(ModeloProfissional profissional)
+        public bool Excluir(ProfissionalModelo profissional)
         {
             try
             {

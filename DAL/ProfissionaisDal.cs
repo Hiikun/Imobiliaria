@@ -31,7 +31,7 @@ namespace Imobiliaria.DAL
 
         MySqlCommand cmdProfissional = new MySqlCommand();
 
-        public void Inserir(ModeloProfissional profissional)
+        public void Inserir(ProfissionalModelo profissional)
         {
             try
             {
@@ -71,10 +71,10 @@ namespace Imobiliaria.DAL
             }
         }
 
-        private bool VerificarProfissionalExistente(ModeloProfissional profExist)
+        private bool VerificarProfissionalExistente(ProfissionalModelo profExist)
         {
             string filtro = "";
-            ListaProfissionais listaProf = new ListaProfissionais();
+            ProfissionaisLista listaProf = new ProfissionaisLista();
             bool verifica = false;
             listaProf = Listagem(filtro);
 
@@ -87,11 +87,11 @@ namespace Imobiliaria.DAL
             return verifica;
         }
 
-        public ListaProfissionais Listagem(string filtro)
+        public ProfissionaisLista Listagem(string filtro)
         {
             try
             {
-                ListaProfissionais objListaProfissionais = new ListaProfissionais();
+                ProfissionaisLista objListaProfissionais = new ProfissionaisLista();
                 conProfissional.ConnectionString = Dados.strConexao;
                 cmdProfissional.Connection = conProfissional;
                 cmdProfissional.CommandType = CommandType.StoredProcedure;
@@ -107,7 +107,7 @@ namespace Imobiliaria.DAL
                 {
                     while (dr.Read())
                     {
-                        ModeloProfissional profissional = new ModeloProfissional();
+                        ProfissionalModelo profissional = new ProfissionalModelo();
                         profissional.ProfId = int.Parse(dr["id_profissional"].ToString());
                         profissional.ProfNome = dr["nome"].ToString();
                         profissional.ProfProfissao = dr["profissao"].ToString();
@@ -130,7 +130,7 @@ namespace Imobiliaria.DAL
             }
         }
 
-        public void Alterar(ModeloProfissional profissional)
+        public void Alterar(ProfissionalModelo profissional)
         {
             try
             {
@@ -164,7 +164,7 @@ namespace Imobiliaria.DAL
             }
         }
 
-        public bool Excluir(ModeloProfissional profissional)
+        public bool Excluir(ProfissionalModelo profissional)
         {
             int resultado = 0;
             bool resposta = false;

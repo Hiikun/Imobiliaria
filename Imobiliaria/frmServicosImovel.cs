@@ -126,7 +126,7 @@ namespace Imobiliaria
             ProfissionaisBll objProfissionaisBll = new ProfissionaisBll();
             ListaProfissionais listaProfissionais = objProfissionaisBll.ListaProfissionais("");
 
-            foreach (ModeloProfissional p in listaProfissionais)
+            foreach (ProfissionalModelo p in listaProfissionais)
             {
                 cboProfissionais.Items.Add(p.ProfId + ": " + p.ProfNome + " - " + p.ProfProfissao);
             }

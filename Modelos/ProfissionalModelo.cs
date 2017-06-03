@@ -12,7 +12,7 @@ using System.Threading.Tasks;
 
 namespace Imobiliaria.Modelos
 {
-    public class ModeloProfissional
+    public class ProfissionalModelo
     {
         private int profId;
         private string profNome;
