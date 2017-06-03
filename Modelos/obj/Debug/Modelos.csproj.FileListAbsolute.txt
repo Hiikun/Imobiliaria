@@ -1,0 +1,15 @@
+D:\Documentos\Meus Documentos\BOYS\Lucas\Programming\C#\LP3\Imobiliaria\Modelos\bin\Debug\Modelos.dll
+D:\Documentos\Meus Documentos\BOYS\Lucas\Programming\C#\LP3\Imobiliaria\Modelos\bin\Debug\Modelos.pdb
+D:\Documentos\Meus Documentos\BOYS\Lucas\Programming\C#\LP3\Imobiliaria\Modelos\obj\Debug\Modelos.dll
+D:\Documentos\Meus Documentos\BOYS\Lucas\Programming\C#\LP3\Imobiliaria\Modelos\obj\Debug\Modelos.pdb
+D:\Documentos\Meus Documentos\BOYS\Lucas\Programming\C#\LP3\Imobiliaria\Modelos\obj\Debug\Modelos.csprojResolveAssemblyReference.cache
+D:\Documentos\Meus Documentos\BOYS\Lucas\Programming\C#\LP3\Trabalho Imobiliaria\Imobiliaria Juneco\Modelos\bin\Debug\Modelos.dll
+D:\Documentos\Meus Documentos\BOYS\Lucas\Programming\C#\LP3\Trabalho Imobiliaria\Imobiliaria Juneco\Modelos\bin\Debug\Modelos.pdb
+D:\Documentos\Meus Documentos\BOYS\Lucas\Programming\C#\LP3\Trabalho Imobiliaria\Imobiliaria Juneco\Modelos\obj\Debug\Modelos.dll
+D:\Documentos\Meus Documentos\BOYS\Lucas\Programming\C#\LP3\Trabalho Imobiliaria\Imobiliaria Juneco\Modelos\obj\Debug\Modelos.pdb
+D:\Documentos\Meus Documentos\BOYS\Lucas\Programming\C#\LP3\Trabalho Imobiliaria\Imobiliaria Juneco\Modelos\obj\Debug\Modelos.csprojResolveAssemblyReference.cache
+F:\Imobiliaria Juneco\Modelos\bin\Debug\Modelos.dll
+F:\Imobiliaria Juneco\Modelos\bin\Debug\Modelos.pdb
+F:\Imobiliaria Juneco\Modelos\obj\Debug\Modelos.csprojResolveAssemblyReference.cache
+F:\Imobiliaria Juneco\Modelos\obj\Debug\Modelos.dll
+F:\Imobiliaria Juneco\Modelos\obj\Debug\Modelos.pdb

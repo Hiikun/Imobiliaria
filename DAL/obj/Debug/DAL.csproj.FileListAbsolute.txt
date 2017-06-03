@@ -1,0 +1,26 @@
+D:\Documentos\Meus Documentos\BOYS\Lucas\Programming\C#\LP3\Imobiliaria\DAL\bin\Debug\DAL.dll
+D:\Documentos\Meus Documentos\BOYS\Lucas\Programming\C#\LP3\Imobiliaria\DAL\bin\Debug\DAL.pdb
+D:\Documentos\Meus Documentos\BOYS\Lucas\Programming\C#\LP3\Imobiliaria\DAL\bin\Debug\Modelos.dll
+D:\Documentos\Meus Documentos\BOYS\Lucas\Programming\C#\LP3\Imobiliaria\DAL\bin\Debug\MySql.Data.dll
+D:\Documentos\Meus Documentos\BOYS\Lucas\Programming\C#\LP3\Imobiliaria\DAL\bin\Debug\Modelos.pdb
+D:\Documentos\Meus Documentos\BOYS\Lucas\Programming\C#\LP3\Imobiliaria\DAL\bin\Debug\MySql.Data.xml
+D:\Documentos\Meus Documentos\BOYS\Lucas\Programming\C#\LP3\Imobiliaria\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\Documentos\Meus Documentos\BOYS\Lucas\Programming\C#\LP3\Imobiliaria\DAL\obj\Debug\DAL.dll
+D:\Documentos\Meus Documentos\BOYS\Lucas\Programming\C#\LP3\Imobiliaria\DAL\obj\Debug\DAL.pdb
+D:\Documentos\Meus Documentos\BOYS\Lucas\Programming\C#\LP3\Trabalho Imobiliaria\Imobiliaria Juneco\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\Documentos\Meus Documentos\BOYS\Lucas\Programming\C#\LP3\Trabalho Imobiliaria\Imobiliaria Juneco\DAL\bin\Debug\DAL.dll
+D:\Documentos\Meus Documentos\BOYS\Lucas\Programming\C#\LP3\Trabalho Imobiliaria\Imobiliaria Juneco\DAL\bin\Debug\DAL.pdb
+D:\Documentos\Meus Documentos\BOYS\Lucas\Programming\C#\LP3\Trabalho Imobiliaria\Imobiliaria Juneco\DAL\bin\Debug\Modelos.dll
+D:\Documentos\Meus Documentos\BOYS\Lucas\Programming\C#\LP3\Trabalho Imobiliaria\Imobiliaria Juneco\DAL\bin\Debug\MySql.Data.dll
+D:\Documentos\Meus Documentos\BOYS\Lucas\Programming\C#\LP3\Trabalho Imobiliaria\Imobiliaria Juneco\DAL\bin\Debug\Modelos.pdb
+D:\Documentos\Meus Documentos\BOYS\Lucas\Programming\C#\LP3\Trabalho Imobiliaria\Imobiliaria Juneco\DAL\bin\Debug\MySql.Data.xml
+D:\Documentos\Meus Documentos\BOYS\Lucas\Programming\C#\LP3\Trabalho Imobiliaria\Imobiliaria Juneco\DAL\obj\Debug\DAL.dll
+D:\Documentos\Meus Documentos\BOYS\Lucas\Programming\C#\LP3\Trabalho Imobiliaria\Imobiliaria Juneco\DAL\obj\Debug\DAL.pdb
+F:\Imobiliaria Juneco\DAL\bin\Debug\DAL.dll
+F:\Imobiliaria Juneco\DAL\bin\Debug\DAL.pdb
+F:\Imobiliaria Juneco\DAL\bin\Debug\Modelos.dll
+F:\Imobiliaria Juneco\DAL\bin\Debug\Modelos.pdb
+F:\Imobiliaria Juneco\DAL\bin\Debug\MySql.Data.xml
+F:\Imobiliaria Juneco\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\Imobiliaria Juneco\DAL\obj\Debug\DAL.dll
+F:\Imobiliaria Juneco\DAL\obj\Debug\DAL.pdb

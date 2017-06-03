@@ -1,0 +1,31 @@
+D:\Documentos\Meus Documentos\BOYS\Lucas\Programming\C#\LP3\Imobiliaria\Bll\bin\Debug\Bll.dll
+D:\Documentos\Meus Documentos\BOYS\Lucas\Programming\C#\LP3\Imobiliaria\Bll\bin\Debug\Bll.pdb
+D:\Documentos\Meus Documentos\BOYS\Lucas\Programming\C#\LP3\Imobiliaria\Bll\bin\Debug\DAL.dll
+D:\Documentos\Meus Documentos\BOYS\Lucas\Programming\C#\LP3\Imobiliaria\Bll\bin\Debug\Modelos.dll
+D:\Documentos\Meus Documentos\BOYS\Lucas\Programming\C#\LP3\Imobiliaria\Bll\bin\Debug\DAL.pdb
+D:\Documentos\Meus Documentos\BOYS\Lucas\Programming\C#\LP3\Imobiliaria\Bll\bin\Debug\Modelos.pdb
+D:\Documentos\Meus Documentos\BOYS\Lucas\Programming\C#\LP3\Imobiliaria\Bll\obj\Debug\Bll.csprojResolveAssemblyReference.cache
+D:\Documentos\Meus Documentos\BOYS\Lucas\Programming\C#\LP3\Imobiliaria\Bll\obj\Debug\Bll.dll
+D:\Documentos\Meus Documentos\BOYS\Lucas\Programming\C#\LP3\Imobiliaria\Bll\obj\Debug\Bll.pdb
+D:\Documentos\Meus Documentos\BOYS\Lucas\Programming\C#\LP3\Trabalho Imobiliaria\Imobiliaria Juneco\Bll\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\Documentos\Meus Documentos\BOYS\Lucas\Programming\C#\LP3\Trabalho Imobiliaria\Imobiliaria Juneco\Bll\bin\Debug\BLL.dll
+D:\Documentos\Meus Documentos\BOYS\Lucas\Programming\C#\LP3\Trabalho Imobiliaria\Imobiliaria Juneco\Bll\bin\Debug\BLL.pdb
+D:\Documentos\Meus Documentos\BOYS\Lucas\Programming\C#\LP3\Trabalho Imobiliaria\Imobiliaria Juneco\Bll\bin\Debug\DAL.dll
+D:\Documentos\Meus Documentos\BOYS\Lucas\Programming\C#\LP3\Trabalho Imobiliaria\Imobiliaria Juneco\Bll\bin\Debug\Modelos.dll
+D:\Documentos\Meus Documentos\BOYS\Lucas\Programming\C#\LP3\Trabalho Imobiliaria\Imobiliaria Juneco\Bll\bin\Debug\MySql.Data.dll
+D:\Documentos\Meus Documentos\BOYS\Lucas\Programming\C#\LP3\Trabalho Imobiliaria\Imobiliaria Juneco\Bll\bin\Debug\DAL.pdb
+D:\Documentos\Meus Documentos\BOYS\Lucas\Programming\C#\LP3\Trabalho Imobiliaria\Imobiliaria Juneco\Bll\bin\Debug\Modelos.pdb
+D:\Documentos\Meus Documentos\BOYS\Lucas\Programming\C#\LP3\Trabalho Imobiliaria\Imobiliaria Juneco\Bll\bin\Debug\MySql.Data.xml
+D:\Documentos\Meus Documentos\BOYS\Lucas\Programming\C#\LP3\Trabalho Imobiliaria\Imobiliaria Juneco\Bll\obj\Debug\BLL.dll
+D:\Documentos\Meus Documentos\BOYS\Lucas\Programming\C#\LP3\Trabalho Imobiliaria\Imobiliaria Juneco\Bll\obj\Debug\BLL.pdb
+F:\Imobiliaria Juneco\Bll\bin\Debug\BLL.dll
+F:\Imobiliaria Juneco\Bll\bin\Debug\BLL.pdb
+F:\Imobiliaria Juneco\Bll\bin\Debug\DAL.dll
+F:\Imobiliaria Juneco\Bll\bin\Debug\Modelos.dll
+F:\Imobiliaria Juneco\Bll\bin\Debug\MySql.Data.dll
+F:\Imobiliaria Juneco\Bll\bin\Debug\DAL.pdb
+F:\Imobiliaria Juneco\Bll\bin\Debug\Modelos.pdb
+F:\Imobiliaria Juneco\Bll\bin\Debug\MySql.Data.xml
+F:\Imobiliaria Juneco\Bll\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+F:\Imobiliaria Juneco\Bll\obj\Debug\BLL.dll
+F:\Imobiliaria Juneco\Bll\obj\Debug\BLL.pdb
